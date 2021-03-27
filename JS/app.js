@@ -2,7 +2,8 @@ const todoList = [
     {todo: "clone repo for starter code", status: "complete"},
     {todo: "link JS and CSS to index", status: "complete"},
     {todo: "create for loop to check status & add to completed", status: "complete"},
-    {todo: "create for loop to log completed items", status: "incomplete"}        
+    {todo: "create for loop to log completed items", status: "started"},
+    {todo: "hand it in", status: "started"}      
 ];
 
 const completedTodos = [];
